@@ -1,0 +1,51 @@
+import 'package:flutter/material.dart';
+
+const backgroundColorDarkOld = Color.fromRGBO(19, 28, 33, 1);
+const textColorDarkOld = Color.fromRGBO(241, 241, 242, 1);
+const appBarColorDarkOld = Color.fromRGBO(31, 44, 52, 1);
+const webAppBarColorDarkOld = Color.fromRGBO(42, 47, 50, 1);
+const messageColorDarkOld = Color.fromRGBO(5, 96, 98, 1);
+const senderMessageColorDarkOld = Color.fromRGBO(37, 45, 49, 1);
+const tabColorDarkOld = Color.fromRGBO(0, 167, 131, 1);
+const searchBarColorDarkOld = Color.fromRGBO(50, 55, 57, 1);
+const dividerColorDarkOld = Color.fromRGBO(37, 45, 50, 1);
+const chatBarMessageDarkOld = Color.fromRGBO(30, 36, 40, 1);
+const mobileChatBoxColorDarkOld = Color.fromRGBO(31, 44, 52, 1);
+const greyColor = Colors.grey;
+const blackColor = Colors.black;
+
+// const backgroundColorLightOld = Color.fromRGBO(11, 20, 27, 1);
+// const textColorLightOld = Color.fromRGBO(248, 253, 255, 1);
+// const appBarColorLightOld = Color.fromRGBO(31, 44, 52, 1);
+// const webAppBarColorLightOld = Color.fromRGBO(42, 47, 50, 1);
+// const messageColorLightOld = Color.fromRGBO(5, 96, 98, 1);
+// const senderMessageColorLightOld = Color.fromRGBO(37, 45, 49, 1);
+// const tabColorLightOld = Color.fromRGBO(0, 167, 131, 1);
+// const searchBarColorLightOld = Color.fromRGBO(50, 55, 57, 1);
+// const dividerColorLightOld = Color.fromRGBO(37, 45, 50, 1);
+// const charBarMessageLightOld = Color.fromRGBO(30, 36, 40, 1);
+// const mobileChatBoxColorLightOld = Color.fromRGBO(31, 44, 52, 1);
+
+// const backgroundColorDarkNew = Color.fromRGBO(11, 20, 27, 1);
+// const textColorDarkNew = Color.fromRGBO(248, 253, 255, 1);
+// const appBarColorDarkNew = Color.fromRGBO(31, 44, 52, 1);
+// const webAppBarColorDarkNew = Color.fromRGBO(42, 47, 50, 1);
+// const messageColorDarkNew = Color.fromRGBO(5, 96, 98, 1);
+// const senderMessageColorDarkNew = Color.fromRGBO(37, 45, 49, 1);
+// const tabColorDarkNew = Color.fromRGBO(0, 167, 131, 1);
+// const searchBarColorDarkNew = Color.fromRGBO(50, 55, 57, 1);
+// const dividerColorDarkNew = Color.fromRGBO(37, 45, 50, 1);
+// const charBarMessageDarkNew = Color.fromRGBO(30, 36, 40, 1);
+// const mobileChatBoxColorDarkNew = Color.fromRGBO(31, 44, 52, 1);
+
+// const backgroundColorLightNew = Color.fromRGBO(19, 28, 33, 1);
+// const textColorLightNew = Color.fromRGBO(248, 253, 255, 1);
+// const appBarColorLightNew = Color.fromRGBO(31, 44, 52, 1);
+// const webAppBarColorLightNew = Color.fromRGBO(42, 47, 50, 1);
+// const messageColorLightNew = Color.fromRGBO(5, 96, 98, 1);
+// const senderMessageColorLightNew = Color.fromRGBO(37, 45, 49, 1);
+// const tabColorLightNew = Color.fromRGBO(0, 167, 131, 1);
+// const searchBarColorLightNew = Color.fromRGBO(50, 55, 57, 1);
+// const dividerColorLightNew = Color.fromRGBO(37, 45, 50, 1);
+// const charBarMessageLightNew = Color.fromRGBO(30, 36, 40, 1);
+// const mobileChatBoxColorLightNew = Color.fromRGBO(31, 44, 52, 1);
