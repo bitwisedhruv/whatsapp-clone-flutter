@@ -54,5 +54,9 @@
 		<string>WhatsApp needs to access your microphone</string>
 		<key>NSContactsUsageDescription</key>
 		<string>WhatsApp needs to access your contacts</string>
+
+		<key>NSAppleMusicUsageDescription</key>
+		<string>WhatsApp need to access Apple Music</string>
+
 	</dict>
 </plist>
