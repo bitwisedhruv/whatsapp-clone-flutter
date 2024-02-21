@@ -54,6 +54,11 @@ dependencies:
   path_provider: ^2.1.2
   flutter_sound: ^9.2.13
   audioplayers: ^5.2.1
+  story_view: ^0.16.0
+  welltested: ^0.0.1
+  welltested_annotation: ^1.1.0
+  build_runner: ^2.4.8
+  mockito: ^5.4.4
 
 dev_dependencies:
   flutter_test:
